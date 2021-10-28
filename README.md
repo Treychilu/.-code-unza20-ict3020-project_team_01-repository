@@ -11,11 +11,10 @@ Student Anonymous feedback application repository
 
 <nav class="w3-bar w3-purple">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
-  <a href="#band" class="w3-button w3-bar-item">about</a>
-  <a href="#tour" class="w3-button w3-bar-item">view feedback</a>
-
+  <a href="#band" class="w3-button w3-bar-item">send feedback</a>
+  <a href="#band" class="w3-button w3-bar-item">view feedback</a>
+  <a href="#tour" class="w3-button w3-bar-item">about</a>
 </nav>
-
 
 </body>
 </html>
